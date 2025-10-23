@@ -10,6 +10,9 @@ Fine-tuning pre-trained models: VGG16, ResNet50, MobileNet, InceptionV3, Efficie
 
 Deploying a Streamlit app for real-time predictions
 <img width="477" height="762" alt="image" src="https://github.com/user-attachments/assets/767a60c3-732d-4ce0-b45a-66cf04a72ead" />
+
+
+
 🛠 Technologies & Skills
 Category	Tools / Libraries
 Programming	Python 3.11
